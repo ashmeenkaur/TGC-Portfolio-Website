@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(243, 202, 226);
+    margin: 0px;
+    font-family: monospace;
+    color: rgb(85, 15, 92);
+    text-align: center;
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 400;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+}
+
+#header{
+    background-image: url("img1.jpg");
+    background-size: cover;
+    height: 450px;
+    padding: 50px;
+    margin: 0px 0px 25px 0px;
+}
+
+#aboutme{
+    background-image: url("img2.jpg");
+    background-size: cover;
+    width: 60%;
+    margin: 25px auto 25px auto;
+    padding: 10px;
+    border: 5px rgb(85, 15, 92) solid;
+}
+
+#aboutme img{
+    width: 30%;
+    border: 5px rgb(85, 15, 92) solid;
+    border-radius: 250px;
+}
+
+#skills{
+    background-image: url("img2.jpg");
+    background-size: cover;
+    width: 60%;
+    margin: 25px auto 25px auto;
+    padding: 10px;   
+    border: 5px rgb(85, 15, 92) solid; 
+}
+
+#socialmedia{
+    background-image: url("img2.jpg");
+    background-size: cover;
+    width: 60%;
+    margin: 25px auto 25px auto;
+    padding: 10px;
+    border: 5px rgb(85, 15, 92) solid;
+}
+
+#footer{
+    background-color: rgb(165, 128, 182);
+    margin: 0;
+}
